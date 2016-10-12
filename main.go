@@ -4,8 +4,8 @@ import (
 	"flag"
 	"log"
 	"fmt"
-	"github.com/jchavannes/chrome-history-parser/wikipedia"
-	"github.com/jchavannes/chrome-history-parser/bhp"
+	"github.com/jchavannes/browser-history-parser/wikipedia"
+	"github.com/jchavannes/browser-history-parser/bhp"
 	"os"
 )
 
